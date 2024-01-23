@@ -11,6 +11,7 @@ This project tests a basic login page provided by the following website https://
 - Login with a valid username and password.
 - Login with a valid username and invalid password.
 - Login with an invalid username and valid password.
+
 By checking the text in the flash messages, I was able to create assertions for the expected conditions for each of these scenarios and pass or fail accordingly.
 ### Skills Gained
 As a quick summary, the skills/tools I gained experience with from this project were:
@@ -19,4 +20,5 @@ As a quick summary, the skills/tools I gained experience with from this project 
 - Selenium
 - Geckodriver and MSEdgeDriver
 - Pytest
+
 To go into a bit more depth... I learned a lot from this project, and I have plans to continue my work in a future project where I can get a bit more complex with my tests and continue learning. While the functionality of this project is simple, I believe that the skills I learned while working can be applied to my work in the future. I learned how to structure a project for automating and testing a browser using the Page Object Model. I learned how to download browser drivers and add them to my computer path so that they can be called as needed. I learned how to create a (parent) page which is inherited by other (child) pages, and the benefit of doing so. These are just a few of the things I am taking away from this experience.
